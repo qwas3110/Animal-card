@@ -1,4 +1,3 @@
 # Animal-card
 动物卡片
-
-![image](Animal-card /animalcard.png);
+![image](https://github.com/qwas3110/Animal-card/blob/master/animalcard.png)

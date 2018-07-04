@@ -1,0 +1,56 @@
+/* 添加 CSS */
+#container {
+    width: 350px;
+    height: 550px;
+    border: 3px ridge #ddf4f4;
+    margin: 10px auto 10px auto;
+    box-shadow: 5px 5px 5px 5px rgba(56,62,62,0.1);
+
+}
+
+#container2 {
+    width: 300px;
+    border: 1px ridge #ddf4f4;
+    margin: 10px auto 5px auto;
+}
+
+.title {
+    padding-left: 22px;
+    font-family: Georgia,"Times New Roman",Serif;
+    font-weight:bold;
+
+}
+
+#picture {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0px auto;
+}
+
+#text-one {
+    font-family: "Monotype Corsiva";
+    text-align: left;
+    padding-left: 8px;
+    font-style: oblique;
+}
+
+#information {
+    font-family: "Times New Roman",Serif;
+    list-style-type: none;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#text-two {
+    font-family: Georgia;
+    font-size: 0.8em;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.intro {
+    font-family: Georgia;
+    text-transform: capitalize;
+    font-weight: bold;
+}
